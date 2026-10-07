@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+templates/**/four_group_pai_results/
+templates/**/multi_file_jump_results/
+templates/**/combined_COMSOL_particle_dataset_plots/
+templates/**/demo_plots/
+templates/**/psd_demo.png
+templates/**/input_pai_groups/
+templates/**/input_data/
+templates/**/data/
+data/
+raw/
+
